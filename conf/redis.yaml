@@ -1,0 +1,5 @@
+redis:
+  host: "10.199.153.84"
+  port: 6379
+  db:   0
+  password: "servyou2019"
